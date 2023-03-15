@@ -1,0 +1,8 @@
+- Gargo: Micro SaaS que integra dados das contas bancárias com as informações de ERPs, softwares de financeiro ou contabilidade e CRMs.
+- Já possuem uma solução rodando (MVP)
+- Necessita de API's com outros sistemas (bancos, meios de pagamento, etc)
+- Busca ofertar, de forma prática, como um intermediário, produtos financeiros e bancários.
+- A Gargo não possui todos esses serviços, mas apenas atua como um intermediário;
+- Precisa de uma solução que entregue um visual com dados e informações dos clientes;
+- Precisa de um sistema que sempre mostre as melhores opções de um tipo de produto.
+- 
